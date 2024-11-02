@@ -22,11 +22,11 @@ This is a classic "Simon Says" memory game built with HTML, CSS, and JavaScript.
    git clone https://github.com/Ashfaq03/Simon-Says-Game.git
 2. Open the index.html file in your browser to start playing.
 
-📌 How to Play
+## 📌 How to Play
 Watch the initial color sequence displayed by the game.
 Click the colors in the same order shown to progress to the next round.
 Each correct attempt adds a new color to the sequence.
 Try to repeat the longest sequence you can remember!
 
-🤝 Contributions
+## 🤝 Contributions
 Feel free to fork this project, submit issues, and open pull requests to improve the game or add new features!

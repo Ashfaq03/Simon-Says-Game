@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+}
+h3 {
+    font-size: 30px;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 8px solid black;
+    border-radius: 20%;
+    margin: 2rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background-color: rgb(229, 73, 104);
+}
+.green{
+    background-color: cadetblue;
+}
+.yellow{
+    background-color:coral ;
+}
+.blue{
+    background-color: cornflowerblue;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: lightgreen;
+}
+
+.wrngflash{
+    background-color: rgb(255, 0, 0);
+}

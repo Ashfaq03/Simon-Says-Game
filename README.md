@@ -33,5 +33,5 @@ Feel free to fork this project, submit issues, and open pull requests to improve
 
 ## 👤 Author
 - **Syed Ashfaquddin**  
-  [Linkedin Profile]((https://www.linkedin.com/in/syedashfaquddin/))
+  [Linkedin Profile](https://www.linkedin.com/in/syedashfaquddin/)
 

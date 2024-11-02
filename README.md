@@ -30,3 +30,8 @@ Try to repeat the longest sequence you can remember!
 
 ## 🤝 Contributions
 Feel free to fork this project, submit issues, and open pull requests to improve the game or add new features!
+
+## 👤 Author
+- **Syed Ashfaquddin**  
+  [Linkedin Profile]((https://www.linkedin.com/in/syedashfaquddin/))
+
